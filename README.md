@@ -1,6 +1,6 @@
 # robofriends-react
 
-A simple application built with React.js
+A simple application built with React.js to familiarize myself with the framework.
 
 To run this project:
 
